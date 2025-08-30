@@ -20,6 +20,7 @@ HTML5 🌐
 CSS3 🎨
 JavaScript ⚡
 
+LIVE DEMO :- [https://mrityunjay15.github.io/CodeAlpha_Calculator/]
 
 🚀 Getting Started
 1. Clone the Repository
